@@ -106,7 +106,7 @@
     "react-highlight-words": "0.12.0",
     "react-hot-loader": "4.6.3",
     "react-icons": "2.2.7",
-    "react-modal": "3.1.2",
+    "react-modal": "3.11.2",
     "react-notification-system": "0.2.16",
     "react-redux": "5.0.6",
     "react-router-dom": "4.3.1",
