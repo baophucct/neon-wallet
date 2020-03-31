@@ -104,7 +104,7 @@
     "react-data-grid": "2.0.73",
     "react-dom": "16.4.2",
     "react-highlight-words": "0.12.0",
-    "react-hot-loader": "4.6.3",
+    "react-hot-loader": "4.12.20",
     "react-icons": "2.2.7",
     "react-modal": "3.1.2",
     "react-notification-system": "0.2.16",
