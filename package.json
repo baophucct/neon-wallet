@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "@cityofzion/neon-js": "3.11.9",
-    "@ledgerhq/hw-transport-node-hid": "4.7.6",
+    "@ledgerhq/hw-transport-node-hid": "4.78.0",
     "axios": "0.17.0",
     "axios-retry": "3.1.1",
     "bignumber.js": "5.0.0",
