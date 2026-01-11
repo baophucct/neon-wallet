@@ -109,7 +109,7 @@
     "react-modal": "3.1.2",
     "react-notification-system": "0.2.16",
     "react-redux": "5.0.6",
-    "react-router-dom": "4.3.1",
+    "react-router-dom": "6.30.2",
     "react-select": "2.0.0",
     "react-split-pane": "0.1.68",
     "react-switch": "3.0.4",
