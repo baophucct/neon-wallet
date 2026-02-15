@@ -69,9 +69,9 @@
     }
   },
   "dependencies": {
-    "@cityofzion/neon-js": "3.11.9",
+    "@cityofzion/neon-js": "4.0.0",
     "@ledgerhq/hw-transport-node-hid": "4.7.6",
-    "axios": "0.17.0",
+    "axios": "1.13.5",
     "axios-retry": "3.1.1",
     "bignumber.js": "5.0.0",
     "buffer": "5.0.8",
@@ -85,7 +85,7 @@
     "electron-save-file": "1.0.2",
     "es6-promisify": "5.0.0",
     "file-loader": "3.0.1",
-    "flow-typed": "2.5.1",
+    "flow-typed": "3.5.0",
     "fs": "0.0.1-security",
     "global": "4.3.2",
     "history": "4.7.2",
